@@ -19,3 +19,13 @@ Con el entorno activado:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Bibliografía / Recursos
+
+### Documentación oficial (la principal)
+- JAX (home / overview): https://jax.dev/
+- Quickstart (cómo pensar en JAX): https://docs.jax.dev/en/latest/quickstart.html
+- Key concepts (grad/jit/vmap y conceptos clave): https://docs.jax.dev/en/latest/key-concepts.html
+- Referencia de `vmap`: https://docs.jax.dev/en/latest/_autosummary/jax.vmap.html
+- Repositorio oficial (README + ejemplos): https://github.com/jax-ml/jax
