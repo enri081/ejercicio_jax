@@ -1,0 +1,7 @@
+# Core (JAX)
+jax
+jaxlib
+
+# Para correr el .ipynb
+notebook
+ipykernel
